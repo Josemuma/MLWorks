@@ -1,0 +1,130 @@
+---
+title: "test python"
+author: "JAMM"
+date: "2023-06-01"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(reticulate)
+```
+
+``` {python}
+# Variance Covariance method
+## 1) Calculate periodic returns of the stocks in the portfolio
+import pandas as pd
+from pandas_datareader import data as pdr
+# import fix_yahoo_finance as yf
+import numpy as np
+import datetime as dt
+import yfinance as yf
+from datetime import date
+import matplotlib.pyplot as plt
+```
+
+```{python}
+# Create our portfolio of equities
+tickers = ['AAPL','META', 'C', 'DIS']
+
+# Set the investment weights (I arbitrarily picked for example)
+weights = np.array([.25, .3, .15, .3])
+
+# Set an initial investment level
+initial_investment = 1000000
+
+# Download closing prices
+data = yf.download(tickers, start="2020-02-01", end="2020-03-20")['Close']
+
+#From the closing prices, calculate periodic returns
+returns = data.pct_change()
+returns.tail()
+```
+```{python}
+## 2) Create a covariance matrix based on the returns
+cov_matrix = returns.cov()
+cov_matrix
+
+## 3) Calculate the portfolio mean and standard deviation
+avg_rets = returns.mean()
+# Calculate mean returns for portfolio overall, 
+# using dot product to 
+# normalize individual means against investment weights
+port_mean = avg_rets.dot(weights)
+
+# Calculate portfolio standard deviation
+port_stdev = np.sqrt(weights.T.dot(cov_matrix).dot(weights))
+
+# Calculate mean of investment
+mean_investment = (1+port_mean) * initial_investment
+
+# Calculate standard deviation of investmnet
+stdev_investment = initial_investment * port_stdev
+```
+
+```{python}
+## 4) Calculate the inverse of the normal cumulative distribution (PPF) with a specified confidence interval, standard deviation, and mean
+conf_level1 = 0.05 
+
+# Using SciPy ppf method to generate values for the
+# inverse cumulative distribution function to a normal distribution
+# Plugging in the mean, standard deviation of our portfolio
+# as calculated above
+from scipy.stats import norm
+cutoff1 = norm.ppf(conf_level1, mean_investment, stdev_investment)
+
+## 5) Estimate the value at risk (VaR) for the portfolio by subtracting the initial investment from the calculation in step 4
+var_1d1 = initial_investment - cutoff1
+var_1d1
+
+print('Here we are saying with 95% confidence that our portfolio of 1M USD will not exceed losses greater than $',var_1d1,'USD over a one day period.' )
+
+# Over N days tem period 
+# Below we can easily do that by just taking our 1 day VaR and multiplying 
+# it by the square root of the time period (this is due to the fact that the 
+# standard deviation of stock returns tends to increase with the square root of time).
+# Calculate n Day VaR
+var_array = []
+num_days = int(15)
+days = range(0,15)
+for x in range(1, num_days + 1):    
+    var_array.append(np.round(var_1d1 * np.sqrt(x),2))
+    print(str(x) + " day VaR @ 95% confidence: " + str(np.round(var_1d1 * np.sqrt(x),2)))
+
+# Build plot
+plt.xlabel("Day #")
+plt.ylabel("Max portfolio loss (USD)")
+plt.title("Max portfolio loss (VaR) over 15-day period")
+plt.plot(dvar_arrayays, '-r')
+plt.show()
+```
+```{python}
+# Distribution of equity vs Normal
+import matplotlib.mlab as mlab
+import scipy
+
+# Repeat for each equity in portfolio
+returns['AAPL'].hist(bins=40, normed=True,histtype="stepfilled",alpha=0.5)
+returns['AAPL'].hist(bins=40, density=True,histtype="stepfilled",alpha=0.5)
+
+plt.show()
+plt.hist(returns['AAPL'],bins=40, density=True)
+
+
+x = np.linspace(port_mean - 3*port_stdev, port_mean+3*port_stdev,100)
+plt.title("AAPL returns (binned) vs. normal distribution")
+plt.plot(x, norm.pdf(x, port_mean, port_stdev), 'r-', lw=5, alpha=0.6, label='norm pdf')
+# plt.show()
+```
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,11 @@
+This program reports over the counter (OTC) sales of certain fixed-income securities. The buyer or seller (or both) must be brokers listed with FINRA. TRACE was introduced in 2002.
+
+There are several categories of securities in TRACE:
+
+BTDS: corporate bonds (U.S. dollar-denominated, investment grade and high yield).
+ATDS: US government agency bonds.
+SPDS: securitized products including asset-backed securities and mortgage-backed securities. WRDS separates SPDS by Sub-Product Type into SPDS-ABS, SPDS-CMO, SPDS-MBS, SPDS-TBA.
+BTDS144A: corporate bonds falling under Rule 144a of the Securities Act of 1933.
+SPDS144A: securitized products falling under Rule 144a of the Securities Act of 1933.
+Rule 144A covers securities that are not registered with the SEC, which may only be sold to qualified institutional buyers.
+
