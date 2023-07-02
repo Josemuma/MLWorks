@@ -1,0 +1,246 @@
+Corporate Governance Statement 
+The Group is committed to maintaining high standards of corporate governance and uses the UK Corporate Governance Code (the 'Code') as a guide to best practice. The responsibility for MAGIL's compliance with the Code is delegated to the Board of Directors of Manchester Airports Holdings Limited ('MAHL'), and further details can be found on pages 20 to 30 of the annual report and accounts for Manchester Airports Holdings Limited. 
+The risk profile of the MAGIL Group is consistent with that of the MAHL Group, as outlined on pages 11 to 14. MAGIL's internal controls and risk management are set out below. 
+Internal controls 
+The directors are responsible for the Group's system of internal control, which aims to safeguard assets and shareholders' investment, and seeks to ensure that proper accounting records are maintained, that statutory and regulatory requirements are met, and that the Group's business is operated economically, effectively and efficiently. It is acknowledged that any system of internal control is most likely to manage rather than eliminate risk, and can provide only reasonable, but not absolute, assurance against material misstatement or loss. 
+The Group's system of internal control has been in place throughout the year and up to the date of this Annual Report. The key elements of the internal control environment, which includes the process for preparing the consolidated financial statements, are: 
+clearly defined organisational structures, schemes of delegation and lines of responsibilities; 
+the involvement of qualified, professional employees with an appropriate level of experience (both in the Group's Finance function and throughout the business); 
+regular meetings of the Board and of the Chief Executive's Executive Committee; 
+Board approval of long-term business strategies, key business objectives and annual budgets (with an annual review being undertaken to update the business strategies and key business objectives); 
+preparation, and Board approval, of revised financial forecasts during the year- monitoring financial performance on a monthly basis against budget, and the benchmarking of key performance indicators, with remedial action being taken where appropriate; 
+monitoring annual performance against business plans; established procedures for planning, approving and monitoring capital projects, together with post project investment appraisal; 
+regular review by the Group's Finance function of each business unit including a reconciliation to the management accounts on a segmental basis; 
+the review by the Audit Committee and the Board of the draft consolidated financial statements, and receipt of and consideration by the Audit Committee of reports from management and the external auditor, on significant judgements and other pertinent matters relating to those statements; the activities of the Internal Audit function (see below); and 
+implementation of Group-wide procedures, policies, standards and processes concerning business activities, including financial reporting, health and safety, and human resources. 
+The Group has an established, independent Internal Audit function, the role of which is to provide impartial, objective audit, assurance and consulting activity that is designed to strengthen, improve and add value to core processes and procedures across the Group. 
+The Internal Audit team takes a disciplined and risk-based approach to evaluating and improving the effectiveness of risk management, internal controls and governance processes, aimed at providing assurance that risks are being well managed, and controls are adequately designed and operating effectively. Their approach is based on professional best practice, in particular, the 2020 Internal Audit Code of Practice, which the Company has already adopted and is applying and the Chartered Institute of Internal Auditors Standards. 
+An annual risk-based Internal Audit Plan is developed which provides coverage of the Group's risk profile over a rolling five-year period, with an initial focus on areas of high inherent risk and areas where the Group is heavily reliant on mitigating controls to manage the risk to an acceptable level. The plan is dynamic, and is refreshed as required, to reflect the evolution of the Group's risk profile over time. Over the course of the year, the Internal Audit team has carried out circa 30 reviews across a broad range of areas including: landside operations; passenger security screening; border breach controls; asset health frameworks; roster to pay processes; and aviation billing core controls. The technology audit plan for the year has included key risk-based reviews such as ransomware protection and governance over the use of cloud technology. Where relevant, Internal Audit scopes will also include a review of governance arrangements and as appropriate, the reliability and quality of key business information which is being provided to support strategic decision-making processes across the business. 
+In respect of key strategic and capital projects, the overall Group Internal Audit Plan is supplemented by an individual Project Assurance Plan, which is kept under regular review, and given the prevalence of major projects across the Group, is the subject of dedicated Internal Audit resource. During the year, the team have undertaken a number of project assurance reviews, including those relating to the ongoing transformation programmes at Manchester and Stansted airports. 
+The Internal Audit team carries out an annual self-assessment exercise to establish its effectiveness and any areas for improvement, based on the Chartered Institute of Internal Auditors Standards. The most recent exercise confirmed full compliance with those standards and an action plan has been developed to support the-team's objective for continuous-improvement-in-respect of quality assurance processes and procedures.
+
+
+In line with best practice, MAGIL also operates an independently provided, confidential reporting telephone helpline and web portal for employees to raise matters of concern in relation to fraud, dishonesty, corruption, theft, security and bribery. All claims are fully investigated in line with MAGIL's standard policies and procedures and a full whistleblowing update is provided at each Audit Committee meeting. As part of Internal Audit's activity in year we will also review the business' application of policies and procedures (for areas under review) with the aim of supporting the dissemination of good working practices and raising awareness of any non-compliance and areas for improvement. This ensures that there is the appropriate tone from the top and MAGIL behaviours and culture is instilled across the business. 
+Based on the Internal Audit work delivered during the year, in the context of materiality, and considering management's commitment to implement agreed control improvement recommendations, the Internal Audit team concluded that MAGIL's internal control and risk activities were operating effectively for the period under review. On behalf of the Board, the Audit Committee has received the Director of Internal Audit's annual report and has conducted a review of the effectiveness of the system of internal control. Regular reports on control issues are presented to, and discussed with, the Audit Committee, and there is a process in place to ensure that audit recommendations are fully implemented by senior executive management. All such, recommendations made in the prior financial year have been implemented, together with 98% of those made in this financial year that are currently actionable. The Board, having considered the Audit Committee's review, is able to confirm that no significant failings have been identified in the system of internal control. 
+Risk management 
+The management of risks rests ultimately with the MAGIL Board, notwithstanding that the MAHL Audit Committee performs a significant role, relative to risk oversight. The most significant strategic, corporate and operational risks and uncertainties identified during the year, and the prevailing approach to management of these, appear on pages 11 to 14. The Risk and Internal Audit Department, covering Risk Management, Internal Audit and Security Assurance, reports directly to the Company Secretary, who habitually attends every MAHL Audit Committee meeting. Risk Registers are managed by individual risk owners, are updated on a regular basis, and are discussed regularly between risk owners, their teams and the Risk Team. The holding of regular business risk workshops at a divisional level, and formal biannual review of the Group's strategic risk register by the executive directors, support this process. The MAGIL Board can confirm that it, and the MAHL Audit Committee, regularly review the process for the identification, evaluation and management of the strategic and significant corpor.ite risks faced by the MAGIL Group. In the judgement of the MAGIL Board, progress_ively enhanced risk management procedures have continued to promote greater business-wide awareness of the potential sources and mitigants of risk within the MAGIL Group.
+
+
+Principal risks 
+The table below summarises the key strategic, corporate and operational risks identified during the year, with details of the strategies for managing them and some of the potential opportunities they present: 
+RISK COVID-19 MITIGATION STRATEGY 
+At the outset of COVID-19 MAGIL activated our Groupwide business resilience and business continuity processes. 
+We established a bronze, silver and gold command structure representing operational, Group and 
+Executive functions. This ensured a consistent approach across the 
+organisation which brought together colleagues from all functions in a joined-up response. 
+Recognising the pervasive nature of the pandemic, we established top down and bottom up risk management processes. We compiled a COVID-19 strategic risk based on the organisational recovery strategy. The register highlights the risks to the achievement of a 
+successful recovery and the mitigating actions we need to take to ensure we reduce the likelihood and / or impact of associated risks. It also provides a mechanism to facilitate and enhance governance processes through review and update of the risks and monitoring of the implementation of agreed actions. 
+We have supplemented this via a series of bottom up risk registers focusing on MAGIL's successful recovery and the uncertainties faced across the business. In doing so we have taken into account guidance material and its application across our airports that has been published by UK Government, EASA and ICAO. 
+Security Breach 
+We continue to invest heavily year-on-year in ensuring our customers, employees and stakeholders remain safe and 
+secure at all of our sites in the context of the current threat environment. 
+We work closely with the Police and Government security agencies to ensure that our security facilities and 
+processes meet the high standards required to respond to new and existing security threats. 
+Drone related disruption at Gatwick, Heathrow and Dublin airports in 2018-19 illustrate a risk that has long existed on 
+MAGIL's key risk registers. Working closely with operations and security colleagues as well as Government organisations MAGIL has revised and updated its approach to anti-drone controls to ensure we reflect on the lessons learned from events and the resulting guidance and advice. 
+Our security facilities and processes are subject to extensive internal and external inspections and audits by regulators, external specialists and internal teams who regularly test the effectiveness of our security processes and identify opportunities for improvement. 
+Whilst security is paramount, we also want our customers to continue to enjoy a positive experience at our airports. 
+We look for opportunities to enhance the customer experience whilst maintaining the high standards of security our stakeholders expect, in particular 
+working to minimise security queuing times through continuous improvement and innovative approaches to our security processes and facilities. 
+OPPORTUNITIES 
+The pandemic represents an uncertainly of unprecedented global impact and duration. As such it has provided a unique opportunity to test MAGIL's business resilience and continuity plans. Learning 
+lessons from this event will ensure MAGIL's already resilient structure is 
+made even more robust to face future crises. 
+The proactive measures we have taken demonstrate to our stakeholders the 
+importance to MAGIL of being able to deliver high quality, safe and secure 
+service as we seek to recover from the impact of the pandemic.
+
+
+Principal risks continued RISK 
+MITIGATION STRATEGY Material sustained disruption to operations 
+We have a clear process across the Group to identify the key factors that could cause significant disruption to our operations. Working with senior management we identify the controls and further actions required to minimise the likelihood of such events occurring where practicable, and the impact of these should they occur. 
+Each of our sites has emergency response, crisis management and business continuity plans in place which are regularly tested and updated to ensure we are able to respond quickly and effectively to disruptions to our operations. Our insurance programme provides financial protection for a wide range of events and incidents causing operational disruption. 
+Major Health & Safety incident affecting our customers or colleagues 
+The Health & Safety of our customers, employees and stakeholders is a fundamental priority for us. Robust Health & Safety policies, procedures and processes are in place, and compliance is monitored by our experienced 
+team of Health & Safety specialists who undertake a programme of inspections and audits throughout the year. 
+Health & Safety training is provided to all employees and briefings are provided to contractors and other visitors to our sites to ensure that key Health & Safety risks are understood and effectively managed. 
+Our Health & Safety governance structure is designed to ensure that there is appropriate oversight of our management of Health & Safety risk and enables material risks to be quickly escalated and addressed. 
+Regulatory risk 
+Compliance with regulatory requirements is a priority for MAG, and we invest in extensive internal and external assurance to ensure we continue to be fully compliant across all aspects of our operations. 
+We also deploy risk management evaluation criterion specifically for regulatory risk. Given the number and complexity of the regulatory requirements we are subject to, this allows us to articulate and compare our key regulatory risks using a comprehensive approach. 
+'Brexit' 
+The 2016 'Brexit' referendum decision and the continuing uncertainty concerning the outcome for the United Kingdom's future relationship with the EU and international trading options more generally , after the end of the transitory period presents a significant macroeconomic risk to the business, and the aviation industry faces uncertainty over the short and longer term impacts of the UK's exit from the EU. 
+We monitor the economic environment closely and have ensured that our business plans are resilient to economic shocks through prudent scenario planning and sensitivity analysis. This, coupled with resilient foundations built during a successful period of growth, provides a positive long-term outlook. 
+MAGIL will work closely with the aviation industry to ensure that the UK continues to enjoy liberal access to the EU aviation market. 
+We work closely and have strong relationships with our regulators to ensure we understand and can fully comply with their requirements. We strive to act quickly when opportunities for improvement are identified, and through our regulator relationships we are able to plan well in advance for successful responses to future requirements. 
+Whilst carefully monitoring and managing exposure to the risks, we will seek to ensure that the business is well positioned to take the opportunities Brexit may present. 
+MAGIL is focused on ensuring our airports have the capacity and quality of facilities our customers expect in the medium and longer term in response to the issues created by the COVID-19 global pandemic. 
+The uncertainty around Brexit and other potential economic shocks has provided the opportunity to review our product and geographical diversification. 
+OPPORTUNITIES 
+Regular review and testing of our plans enable opportunities for improvement to be identified and implemented on an ongoing basis. 
+MAGIL has invested a significant amount of time in 2019-20 to better establish business resilience and continuity across the Group. MAGIL has considered the mechanisms by which functions will respond to circumstances which could impact upon operations. This work has been undertaken to integrate joined up ways of working in MAGIL airports and across the Group as a whole. 
+Continuous improvement of our Health & Safety arrangements is a key focus for each of our operations. This is facilitated by our specialist Health & Safety Teams and underpinned by strong ownership and accountability by our management teams.
+
+
+Principal risks continued RISK 
+MITIGATION STRATEGY 
+Delivering major programmes 
+MAGIL has a successful track record of delivering major programmes. 
+The 2019/2020 financial year saw the continuation of our biggest ever programme - the transformation of Manchester's terminal, airfield and car parking facilities. We continue to assess progressing with the proposed transformation of London Stansted Airport. 
+We have established rigorous governance arrangements to ensure that all capital delivery programmes are progressed in a controlled manner, to high quality standards and with the minimum possible disruption to our customers. 
+OPPORTUNITIES 
+The design phases of the Stansted Transformation Programme and the transition towards construction of the Manchester Transformation Programme have given us the opportunity to raise the bar even higher for programme management and governance 
+Opportunities to improve our existing capital delivery processes are being identified and implemented as the programme progresses 
+At the start of the 2019-20 financial Manchester Airport experienced the biggest milestone to date in the transformation works with the opening of a new pier and multistorey car park. 
+Recruitment, development 
+and retention of talented 
+people 
+Recruiting and retaining talent is critical to the success of our business, and this has been an area of significant focus in recent years. Our Talent Strategy aims to attract the best available people in the market and retain employees 
+through a variety of initiatives including incentive schemes, career development programmes and mentoring to help them contribute to driving the success of the company, whilst getting the very best out of their career at MAG. 
+We are also adapting our recruitment approach in key areas such as 'digital' to reflect the changing external environment, where the competition for talent is high. 
+Cyber Security 
+The security of our Technology systems, and in particular our customer, employee and stakeholder data are extremely important to us. We have a wide range of multi-layered defences within our Technology infrastructure to ensure that our systems remain operational and our data remains secure and have delivered a range of significant enhancements to our systems and network. 
+We also run a security and education programmes for our colleagues and contractors to ensure they are aware of cyber risks and how to take action to mitigate them at an individual level. 
+Contingency plans are in place to detect and respond to threats, security breaches and data loss, minimising the impact on our customers, stakeholders and the business. 
+We have devoted significant resource to ensure that we have appropriate systems and processes in place to ensure our compliance with EU General Data Protection Regulation (GDPR) Measures included ensuring appropriate governance, awareness and data assessment and storage capacity, overseen by a dedicated Group Data Protection Officer. 
+
+
+ 
+In the second quarter of 2020-21, subject to the challenges COVID-19 has created, Manchester Airport will see the opening of the newly constructed Terminal 2 as work begins to refurbish the current Terminal building. Regular employee communications and performance reviews individually and collectively combined with regular communications from management and the use of employee engagement surveys enable colleagues to identify opportunities to improve the employee experience. MAGIL is transparent in communicating survey results and proactive in developing initiatives to deliver identified improvements. MAGIL's Cyber Security Strategy sets out a programme of improvements to our Technology systems and infrastructure designed to ensure that the growth of our business is supported and underpinned by a secure and effective IT environment. 
+Cyber Security Enhancements are reported through Cyber Security Programme Board and to the Cyber Security Steering Committee. This provides appropriate governance and oversight of our ongoing Cyber Security initiatives and includes work in progress lo deal with changing Cyber threats and MAGIL's evolving digital online business.
+
+
+Principal risks continued RISK 
+MITIGATION STRATEGY Climate Change 
+MAGIL recognises the importance of social responsibility as an airport owner and operator. Maintaining public confidence is a high priority with inextricable implications on demand. 
+As passenger numbers continue to grow and MAGIL develops the infrastructure to provide our guests with the best service possible, we are cognisant of the need to play our role in controlling carbon emissions and reducing our environmental impact. 
+· 
+OPPORTUNITIES The Sustainable Aviation Decarbonisation Road-Map represents joint working between airport operators, airlines, aerospace manufacturers and air navigation service providers. It provides a basis to tangibly reduce C02 emissions. 
+We are in open dialogue with Government through the Achieving Net Zero Board. This both influences and monitors Government action against promises they have made and is a forum to demonstrate positive work undertaken by the aviation sector and MAGIL specifically. 
+We also continue to maintain MAGIL's position as a leader in the Net Zero campaign with an aim towards achievement of net zero carbon emissions by 2038 as outlined in MAGIL's CSR Strategy. This work is all underpinned by the fact that MAGIL airports were the first in the UK to be carbon neutral. 
+Leadership and Governance 
+As we describe· in the strategic report, this year has been unprecedented. It is a testament to a combination of the dedication, resilience and strength of our senior management team (and in turn their teams, and our staff generally), their business resilience plans, our Board's diverse skills and an appropriate governance and internal control framework that we have been able to navigate the exceptional external challenges we have faced. At the same time, we have maintained our disciplined approach to safety standards as the health, safety and wellbeing of our customers, staff and business partners are paramount. 
+MAGIL considers that strong corporate governance is a core foundation for any successful company and is committed to maintaining the highest standards of corporate governance and adopting best practice as it emerges. The following Corporate Governance Report sets out how MAGIL applies governance standards in practice, and reports against the Wates Principles, which MAGIL has adopted as its corporate governance code. 
+MAGIL places great importance on the Board's role in embedding a positive culture and values across the organisation .. Furthermore, MAGIL recognises that diversity in its workforce provides access to a wider range of talents, experience and skills, promoting greater creativity, innovation and high performance. Further information is provided in the Nomination Committee section on page 25 of the MAHL annual report and financial statements. This year the Board received a report of an independently facilitated materiality assessment, that sought a broad cross-section of views. This report informed the development of a new CSR Strategy, with further details set out on page 31 of the MAHL annual report and financial statements. The Board's consideration of stakeholder views is described more fully in the Section 172 statement below. 
+This year the Board completed a strategy session looking at future opportunities for the development of the Group. In addition to a continued focus on the core business operations, the Board continues to critically assess the potential of the MAGIL Airport Services, including the digital strategy. The opportunities and challenges outlined in the joint statement on pages 3 to 5 of the MAHL annual report and financial statements mean that the Board needs to continue to maintain its robust scrutiny and healthy challenge of the executive team as they navigate through the emerging risks and opportunities. In so doing the Board will support the executive to develop and implement a strategy that strikes the right balance between incremental value creation and longer term evolution of the business model. To ensure we have the right structures to support this work, this year we also reviewed the terms of reference for the Board Committees. There were no changes to Board's constitution.
+
+Statement by the Directors in. Performance of their Statutory Duties in Accordance with s172(1) Companies Act 2006 
+Throughout this annual report, we provide examples of how we: take into account the likely consequences of long term decisions; build relationships with stakeholders; understand the importance of engaging our employees; understand the impact of our operations on the communities in the regions in which our airports operate and the environment we depend upon; and attribute importance to behaving as a responsible business. 
+· 
+The Board of Directors are aware of and consider they have acted in accordance with their statutory duties under s 172(1) of the Companies Act 2006. Consistent with these duties, the directors have acted in good faith, seeking to promote the long-term success of the company for the benefit of shareholders and in so doing have had regard to their duties to: 
+the likely consequences of any decisions in the long-term; the in.terests of the company's employees; 
+the need to foster the company's business relationships with suppliers, customers and others; the impact of the company's operations on the community and environment; 
+the desirability of the company maintaining a reputation for high standards of business conduct; and the need to act fairly as between shareholders of the company. 
+The following paragraphs summarise how they fulfil those duties, with references, where appropriate, to the other parts of this annual report where further information is available.
+
+
+Stakeholder engagement Stakeholder group 
+Passengers 
+With more than 270 destinations served from our airports, we provide the vital connections to allow people to travel for 
+business and leisure. The passengers 
+choosing our airports are the lifeblood of our business and providing the right services and destinations for them is critical to our success. 
+Feedback from passengers is carefully reviewed and reported to the Board, including a regular 
+independently administered survey, using the net promoter score. 
+This year the Board received several reports examining the service levels offered to those passengers who require special assistance or have additional needs. Further details of the resulting actions taken and the necessary improvements that have been delivered this year can be found in the CSR Chapter, on page 31 of the MAHL annual report and financial statements. 
+Local communities 
+We know that when our airports prosper, they bring benefits to local communities, providing employment, supporting local groups, education and skills. Impacts from airport and aircraft 
+operations, including noise, emissions and congestion can negatively affect communities near our airports and need careful management. 
+Colleagues Our people are at the heart of our 
+business and are fundamental to its success. We aim to be a fair and responsible employer in our approach to the pay and benefits our employees receive, seek to provide an environment our colleagues can fulfil their potential and safeguard their health, safety and well-being. 
+Colleague's views are considered through formal and informal channels. 
+This year we introduced a new Group-wide colleague engagement survey, which will be repeated annually. This independently administered engagement survey, will assist the Board in assessing the strengths and opportunities to inform future work in this area. 
+Customers, partners and suppliers 
+Establishing, developing and maintaining strong business relationships with our customers, business partners and suppliers is fundamental to the long-term stability and success of our business. 
+We always seek to conduct business in a professional and collaborative 
+manner. Engagement with customers and business partners is critically ,important to MAGIL. Each of our airports operate collaborative forums and one-to-one key account 
+management meetings with all our business partners - including airlines, retailers, tenants and aviation service partners. Our Airport Consultative Committees bring these customer groups together with passenger and community representatives. 
+Our approach to procurement is accredited to the Corporate Certification Standard of the Chartered Institute of Procurement and Supply. This incorporates practices to make responsible procurement decisions which treat suppliers fairly, mitigate modern slavery, and ensure prompt payment. 
+
+
+ 
+This year the Board received a report on the programme of work undertaken to minimise the risk of slavery in all aspects of our business and approved a statutory statement, which will be published in the summer alongside our CSR Report. 
+Feedback from colleagues was reported to and considered by the Board. The views of colleagues informed discussion about appropriate people policies. The Board has taken a close interest in the diversity and inclusivity of the workforce and has considered several relevant reports. 
+Regular and long-term engagement with local communities occurs at all MAGIL airports, including formal consultative committees and informal community outreach. Further details can be found on page 31 of the MAHL annual report and financial statements. 
+Community views, including an independent materiality review were reported to the Board this year and were important tci the development of a new CSR Strategy. Further details can be found on page 31 of the MAHL annual report and financial statements. 
+Form of engagement 
+How this stakeholder group influenced Board decision making
+
+
+Stakeholder engagement continued Stakeholder group 
+lndustry, regulatory bodies, government and government agencies 
+We help national and regional government to formulate and deliver their policies. We actively contribute to industry associations and promote the legitimate interests of our industry. 
+Form of engagement 
+How this stakeholder group influenced Board decision making The Corporate Affairs team regularly meets with national government and elected representatives of all parties. 
+This includes Government officials across a wide range of departments, members of both the House of Commons and the House of Lords, ministers and shadow ministerial teams, scrutiny committees like the Transport Select Committee and policy making bodies like the National Infrastructure Commission or Transport for the North. 
+The team also hold relationships with regulators (the CAA) to ensure regulation meets MAGIL's needs. 
+MAGIL is a member of several trade associations linked to its interests including the CBI and AOA. Relationships are held with similar other industry associations such as Airlines UK (AUK) and BAR UK, to facilitate working on common issues and to provide for mutual support. 
+At a more local level, Corporate Affairs teams hold local MP relationships, as well as with councillors, LEPs and local government agencies (e.g. the North West branch of the Department for International Trade). 
+Shareholders 
+Our shareholders invest in MAGIL as a long-term strategic asset with significant future growth potential. By taking a longterm view they underpin the sustainable growth of the business. 
+Shareholder representatives meet regularly with the executive team to ensure they are closely briefed, and they are supported by a team of highly experienced non-executive directors. Further details can be found in the strategic report on page 23 and 24 of the MAHL annual report and financial statements. 
+MAGIL has enjoyed shareholder support to facilitate major infrastructure investments, such as the Manchester Transformation Project. This investment is crucial to the long-term success of the business. 
+In response to the COVID-19 pandemic, shareholder support has allowed MAGIL to put in place a strong financial response incorporating significant cash mitigation measures, which together with equity support from shareholders will secure the recovery of the business. 
+The board receives regular updates on Government policy and the work of the Corporate Affairs team, providing guidance on the direction this should travel to support MAGIL's future growth. This informs MAGIL's engagement with policy makers and regulators.
+
+
+Taking a long-term view of risks and opportunities 
+We operate a systematic process to identify risks and opportunities. Further information on our risk framework can be found on pages 10 to 14. Our principal risks include the need to maintain a safe and secure operation, within a highly regulated sector; responding to changes that may arise as the UK exits the European Union; responding to changes in passenger levels and the UK and global economic outlook; and the need to attract and retain talented people. This year, increased risk associated with climate change informed the Board's view in agreeing a new commitment to transition MAGIL to a net zero carbon business by no later than 2038. Our assessment of risk is scrutinised by the and regularly reported to the Board, to allow the long-term consequences of decisions to be assessed. 
+Managing our impacts on local communities and the environment 
+Ensuring local communities benefit from operations at our airports and minimising impacts including noise and emissions have consistently been a high priority for MAGIL. We also have well established environmental management systems. 
+The CSR Committee receives regular reports on all relevant aspects of policy, regulation and performance, and this year agreed a new five-year CSR Strategy. Further detail can be found on page 31 of the MAHL annual report and financial statements. Maintaining a reputation for high standards of business conduct 
+It is important that MAGIL operates to high standards of business conduct and appropriate policies, including the prevention of bribery and corruption have been implemented, with supporting training for those colleagues whose work is most likely to expose them to relevant risks. All colleagues have access to an anonymous reporting service to report any instance of bullying or intimidation in the workplace. To demonstrate transparency in reporting, MAGIL publishes an annual CSR Report, which includes full disclosure against the relevant industry sector guidance published by the Global Reporting Institute (GRI). The most recent disclosure can be found on page 31 of the MAHL annual report and financial statements. The CSR Committee receive and approve the CSR Report prior to publication. 
+MAGIL structure and governance arrangements 
+In ownership terms, the Group is a subsidiary of Manchester Airports Holdings Limited ('MAG'). MAG is structured as a joint venture between the ten local authorities of the Greater Manchester region and IFM Investors (IFM). In this way, MAG's ownership structure is unique and comprises an effective blend of public and private shareholders, including Manchester City Council (35.5%), IFM Investors (35.5%) and the nine other Greater Manchester local authorities (29%) Amongst those owners, The Council of the City of Manchester and IFM enjoy, in equal shares, the voting rights in general meetings of Manchester Airports Holdings Limited (the holding company of the Group), have certain matters reserved for their exclusive decision as shareholders, and make two appointments each to the Board. 
+· 9 District Councils• 
+Manchester City Council (50% voting) 
+Manchester Airports Holdings limited 
+Manchester Airport Finance Holdings limited 
+Manchester Airport Group Investments Limited 
+Conyer11 Trust Company (Cayman) Limited as Trustee for IFM Global lnfastructure Fund (50% voting) 
+(*the Borough Council of Bolton, the Borough Council of Bury, the Oldham Borough Council, the Rochdale Borough Council, the Council of the City of Salford, the Metropolitan Borough Council of Stockport, the Tameside Metropolitan Borough Council, the Trafford Borough Council and the Wigan Borough Council)
+
+
+Our sustainability performance Issue 
+Objective 
+Carbon reduction CO2 
+Minimise the environmental impact of our airports 
+Number of people within noise footprint (1000s) Number of training placements provided 
+Health and safety 'RIDDOR' 
+reportable accidents 
+Being good neighbours within our communities 
+Supporting work within our communities 
+Maintain robust health and safety standards 
+Our energy and emission performance MAGIL has reported the climate impacts of its operations for many years, publishing an overview of performance in our Annual Report and more detail in our annual Corporate Social Responsibility Reports. We welcome changes that require us and other large organisations to provide more information about the energy we use and the climate impacts of that energy. 
+From this year, MAGIL is required to report its energy use and carbon emissions in accordance with the Companies (Directors' Report) and Limited Liability Partnerships (Energy and Carbon Report) Regulations 2018. We have therefore taken this opportunity to review our energy and carbon reporting with the aim of providing greater transparency. 
+The information presented below sets out the energy use and emissions for which MAGIL is responsible, including the energy and emissions associated with the operation of our buildings and vehicle fleets. Our energy use and associated climate impacts are presented in absolute terms and as a measure of 'intensity' compared to our passenger and cargo throughput measured as 'Traffic Units' (which are defined by the International Air Transport Organisation (IATA) as equivalent to 1,000 passengers or 100 tonnes of freight). 
+In preparing this report we have followed environmental reporting guidelines published by the Government, we have also adopted the principles of the World Resources lnstitute's Greenhouse Gas Protocol. Our energy use and associated emissions have been gathered largely from a collection of primary data, where this has not been possible, we have estimated consumption by extrapolating historic energy use - 1. 7% of our energy use, 1.6% of our location-based and 5.3% of our market-based emissions have been estimated. Reported figures have been independently verified by the Carbon Trust. 
+We know that information about our greenhouse gas emissions is important to stakeholders and believe that providing this will support a more informed discussion about climate change. As such, alongside this year's CSR Report, we will publish a supplement providing detailed information about emissions from MAGIL's activities and other emissions indirectly associated with our business. 
+Indicator 
+'SECR' Scope 1, 2 and 3 greenhouse gas emissions 
+(full break-down at page 20, market-based emissions per traffic unit (tonnes CO2e) Number of people within daytime 57dB LAeq noise contour (1000s) Number of training 
+placements provided by MAGConnect Airport Number of 'RIDDOR' 
+reportable incidents 
+On track i 
+2019/20 2018/19 Change +6% 1 
+0.210 0.222 ! ! ! 38.2 706 12 38.3 7 59 '0 -0.3% -7% 2 -40% 3
+
+
+
+Our sustainability performance continued 
+2019/20 
+Energy consumption used to calculate emissions (kWh) 
+Emissions from combustion of gas 
+(Scope 1 tCO2e) Emissions from combustion of fuel for transport purposes 
+(Scooe 1 tCO2el Emissions from business travel in rental cars or employee-owned vehicles 
+where MAGIL is responsible for purchasing the fuel (Scope 3, tCO2e) Emissions from purchased electricity5 
+(Scope 2, location-based, tCO2e) Emissions from purchased electricity 
+(Scooe 2 market-based tCO2el Total gross emissions based on the above 
+(Location-based tCO2e) Total gross emissions based on the above 
+(Market-based, tCO2el Intensity measure 
+(Traffic units6) Intensity ratio 
+(Location-based emissions, tCO2e /traffic unit) Intensity ratio 7 
+(Market-based emissions, tCO2e /traffic unit) Carbon offsets 
+(purchased and retired, tCO2e) Total net emissions based on the above 
+(Location-based tCO2el Total net emissions based on the above 
+(Market-based, tCO2e) 207,863,924 9,158 5,622 90 34,551 0 49,421 14,870 66,899 0.739 0.222 14,870 34,551 0 2018/19' 208,525,600 9,752 4,665 98 33,225 5.5 47,739 14,520 69,167 0.690 0.210 14,520 33,225 0
+
