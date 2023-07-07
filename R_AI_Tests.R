@@ -1,6 +1,7 @@
 library(class)
 library(FNN)
 library(tidyverse)
+library(ggplot2)
 
 # KNN Regression
 bikesharing <- read.csv("day.csv")
@@ -121,9 +122,6 @@ mse_lm2 = mean((bike_test$cnt-predlmpoly)^2)
 mse_lm2 # is higher than the one from the KNN mse with k = 50
 mse_lm 
 mse_knn_final
-
-# Classification ####
-## 1 ####
 
 
 

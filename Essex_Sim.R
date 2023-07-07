@@ -1,13 +1,24 @@
 library(pacman)
 p_load(dplyr, readr, tm, stringdist, RecordLinkage, readxl)
-# list.files('Essex/20_21_Wates_readable texts_547/') %>% 
-#   tibble(.) %>% 
-#   write.table(., file = '21_wates.txt', quote = F, row.names = F)
-# 
-# 
-# list.files('Essex/19_20_Wates_338 Txt files of readable reports/') %>% 
-#   tibble(.) %>% 
-#   write.table(., file = '19_wates.txt', quote = F, row.names = 
+jw_1toPast <- read_rds('~/Desktop/MLWorks/Essex/jw_1toPast')
+
+bind_cols(
+  wates_21 %>% tibble(.) %>% 
+    add_row(Wates_21 =  "Companies",.before = 1),
+  t(bind_cols(wates_21,(jw_1toNew)%>% tibble(.))) %>% 
+    tibble(.)) %>% 
+  write.table(., file = 'jw_1toNew.txt', quote = F, 
+              row.names = F, col.names = F, sep = '|')
+
+
+
+
+wates_21 %>% tibble(.) %>% add_row(Wates_21 =  "Companies",.before = 1)
+bind_rows(a = 'Companies',wates_21)
+
+
+
+
 # Load ####
 ## Names ####
 wates_match <- read_excel("Essex/Matching_Txts.xlsx",sheet = 'Match_21_19')

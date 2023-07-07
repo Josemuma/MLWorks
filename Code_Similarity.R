@@ -96,17 +96,17 @@ wates_19_txts <-  read_rds(file = 'wates_19_txts')
 jw_1to1 <- sapply(1:nrow(wates_match), function(x)
   jarowinkler(repeated_txts[x,2],repeated_txts[x,4])) %>%
   # stringsim(repeated_txts[x,2],repeated_txts[x,4], method = "jw")) %>% # alternative pacakge same results
-  cbind(repeated_txts$Wates_21,.) %>% # Bind name of Wates 2021 TXT file
-  # Then save it as a TXT
-  write.table(., file = 'jw_1to1.txt', quote = F, row.names = F, sep = ',')
+  cbind(Company_2021 = repeated_txts$Wates_21, Similarity_JW = .) # Bind name of Wates 2021 TXT file
+# Then save it as a TXT
+write.table(jw_1to1, file = 'jw_1to1.txt', quote = F, row.names = F, sep = ',')
 
 # Lev ####
 lev_1to1 <- sapply(1:nrow(wates_match), function(x)
   levenshteinSim(repeated_txts[x,2],repeated_txts[x,4])) %>%
   # stringsim(repeated_txts[x,2],repeated_txts[x,4], method = "lv")) %>% # alternative pacakge same results
-  cbind(repeated_txts$Wates_21,.) %>% # Bind name of Wates 2021 TXT file
-  # Then save it as a TXT
-  write.table(., file = 'lev_1to1.txt', quote = F, row.names = F, sep = ',')
+  cbind(Company_2021 = repeated_txts$Wates_21, Similarity_Lev = .) # Bind name of Wates 2021 TXT file
+# Then save it as a TXT
+write.table(lev_1to1, file = 'lev_1to1.txt', quote = F, row.names = F, sep = ',')
 
 
 # 1 to Past ####
@@ -114,40 +114,65 @@ lev_1to1 <- sapply(1:nrow(wates_match), function(x)
 ## JW ####
 jw_1toPast <- sapply(1:nrow(wates_21_txts), function(y)
   sapply(1:nrow(wates_19_txts), function(x) 
-    jarowinkler(wates_21_txts[y,2],wates_19_txts[x,2]))) %>%
+    jarowinkler(wates_21_txts[y,2],wates_19_txts[x,2])))
     # stringsim(wates_21_txts[y,2],wates_19_txts[x,2], method = "jw"))) %>% # alternative pacakge same results
-  # Then save it as a TXT
-  write.table(., file = 'jw_1toPast.txt', quote = F, row.names = F, sep = ',')
-
+saveRDS(jw_1toPast, 'jw_1toPast')
+# Then save it as a TXT
+bind_cols(
+  wates_21 %>% tibble(.) %>% 
+    add_row(Wates_21 =  "Companies",.before = 1),
+  t(bind_cols(wates_19,(jw_1toPast)%>% tibble(.))) %>% 
+    tibble(.)) %>% 
+  write.table(., file = 'jw_1toPast.txt', quote = F, 
+              row.names = F, col.names = F, sep = '|')
 ## Lev ####
 # This method takes up to 25 hours to run 
 lev_1toPast <- sapply(1:nrow(wates_21_txts), function(y)
   sapply(1:nrow(wates_19_txts), function(x) 
-    levenshteinSim(wates_21_txts[y,2],wates_19_txts[x,2]))) %>%
+    levenshteinSim(wates_21_txts[y,2],wates_19_txts[x,2])))
     # stringsim(wates_21_txts[y,2],wates_19_txts[x,2], method = "lv"))) %>% # alternative pacakge same results
-  # Then save it as a TXT
-  write.table(., file = 'lev_1toPast.txt', quote = F, row.names = F, sep = ',')
-
+saveRDS(lev_1toPast, 'lev_1toPast')
+# Then save it as a TXT
+bind_cols(
+  wates_21 %>% tibble(.) %>% 
+    add_row(Wates_21 =  "Companies",.before = 1),
+  t(bind_cols(wates_19,(lev_1toPast)%>% tibble(.))) %>% 
+    tibble(.)) %>% 
+  write.table(., file = 'lev_1toPast.txt', quote = F, 
+              row.names = F, col.names = F, sep = '|')
 
 # 1 to New ####
 # The similarity test is ran for two different methods
 ## JW ####
 jw_1toNew <- sapply(1:nrow(wates_21_txts), function(y)
   sapply(1:nrow(wates_21_txts), function(x)
-    jarowinkler(wates_21_txts[y,2],wates_21_txts[x,2]))) %>%
+    jarowinkler(wates_21_txts[y,2],wates_21_txts[x,2])))
     # stringsim(wates_21_txts[y,2],wates_21_txts[x,2], method = "jw"))) %>% # alternative pacakge same results
-  # Then save it as a TXT
-  write.table(., file = 'jw_1toNew.txt', quote = F, row.names = F, sep = ',')
+saveRDS(jw_1toNew, 'jw_1toNew')
+# Then save it as a TXT
+bind_cols(
+  wates_21 %>% tibble(.) %>% 
+    add_row(Wates_21 =  "Companies",.before = 1),
+  t(bind_cols(wates_21,(jw_1toNew)%>% tibble(.))) %>% 
+    tibble(.)) %>% 
+  write.table(., file = 'jw_1toNew.txt', quote = F, 
+              row.names = F, col.names = F, sep = '|')
 
 ## Lev ####
 # This method takes up to 36 hours to run 
 lev_1toNew <- sapply(1:nrow(wates_21_txts), function(y)
   sapply(1:nrow(wates_21_txts), function(x) 
-    levenshteinSim(wates_21_txts[y,2],wates_21_txts[x,2]))) %>%
+    levenshteinSim(wates_21_txts[y,2],wates_21_txts[x,2])))
     # stringsim(wates_21_txts[y,2],wates_21_txts[x,2], method = "lv"))) %>% # alternative pacakge same results
-  # Then save it as a TXT
-  write.table(., file = 'lev_1toNew.txt', quote = F, row.names = F, sep = ',')
-
+saveRDS(lev_1toNew, 'lev_1toNew')
+# Then save it as a TXT
+bind_cols(
+  wates_21 %>% tibble(.) %>% 
+    add_row(Wates_21 =  "Companies",.before = 1),
+  t(bind_cols(wates_21,(lev_1toNew)%>% tibble(.))) %>% 
+    tibble(.)) %>% 
+  write.table(., file = 'lev_1toNew.txt', quote = F, 
+              row.names = F, col.names = F, sep = '|')
 
 
 
